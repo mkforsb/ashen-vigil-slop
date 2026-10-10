@@ -1,0 +1,5 @@
+/target
+/dist
+*.wav
+/tools/out
+/dist

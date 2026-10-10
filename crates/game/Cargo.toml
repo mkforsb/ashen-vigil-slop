@@ -1,0 +1,11 @@
+[package]
+name = "ashen-game"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+ashen-engine.workspace = true
+glam.workspace = true
+serde.workspace = true
+serde_json.workspace = true

@@ -1,0 +1,6 @@
+[{"wait": 6.5}, {"key": "KeyQ", "down": true}, {"wait": 0.08}, {"key": "KeyQ", "down": false}, {"wait": 0.4}, {"shot": "a"},
+ {"button": 0, "down": true}, {"wait": 0.08}, {"button": 0, "down": false}, {"wait": 0.27}, {"shot": "b"},
+ {"button": 0, "down": true}, {"wait": 0.08}, {"button": 0, "down": false}, {"wait": 0.6}, {"shot": "c"},
+ {"key": "ShiftLeft", "down": true}, {"button": 0, "down": true}, {"wait": 0.08}, {"button": 0, "down": false}, {"key": "ShiftLeft", "down": false}, {"wait": 0.62}, {"shot": "d"},
+ {"wait": 0.8}, {"button": 2, "down": true}, {"wait": 0.6}, {"shot": "e"}, {"button": 2, "down": false},
+ {"key": "KeyA", "down": true}, {"key": "Space", "down": true}, {"wait": 0.08}, {"key": "Space", "down": false}, {"wait": 0.25}, {"shot": "f"}, {"key": "KeyA", "down": false}, {"wait": 1}]

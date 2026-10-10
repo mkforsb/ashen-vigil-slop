@@ -1,0 +1,2 @@
+[{"wait": 5.5}, {"shot": "a"}, {"wait": 1.2}, {"shot": "b"}, {"wait": 1.5}, {"shot": "c"}, {"wait": 2.5}, {"shot": "d"},
+ {"key": "KeyQ", "down": true}, {"wait": 0.1}, {"key": "KeyQ", "down": false}, {"wait": 2.0}, {"shot": "e"}, {"wait": 2.0}, {"shot": "f"}]

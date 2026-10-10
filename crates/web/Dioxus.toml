@@ -1,0 +1,9 @@
+[application]
+name = "ashen-vigil"
+
+[web.app]
+title = "Ashen Vigil"
+
+[web.watcher]
+watch_path = ["src", "assets", "../game/src", "../engine/src"]
+reload_html = true

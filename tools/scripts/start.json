@@ -1,0 +1,6 @@
+[{"wait": 7}, {"shot": "wake"},
+ {"key": "KeyE", "down": true}, {"wait": 0.15}, {"key": "KeyE", "down": false}, {"wait": 0.4}, {"shot": "read"},
+ {"key": "KeyE", "down": true}, {"wait": 0.15}, {"key": "KeyE", "down": false},
+ {"mouse": [-600, 0]}, {"wait": 0.5},
+ {"key": "KeyW", "down": true}, {"wait": 0.6}, {"key": "KeyW", "down": false}, {"wait": 0.3}, {"shot": "item"},
+ {"key": "KeyE", "down": true}, {"wait": 0.15}, {"key": "KeyE", "down": false}, {"wait": 1.5}, {"shot": "pickup"}]

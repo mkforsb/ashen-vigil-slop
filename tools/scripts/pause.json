@@ -1,0 +1,1 @@
+[{"wait": 7}, {"key": "KeyP", "down": true}, {"wait": 0.1}, {"key": "KeyP", "down": false}, {"wait": 0.5}, {"shot": "pause"}]

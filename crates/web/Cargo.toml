@@ -1,0 +1,26 @@
+[package]
+name = "ashen-web"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+ashen-engine.workspace = true
+ashen-game.workspace = true
+glam.workspace = true
+glow.workspace = true
+dioxus = { version = "0.7", features = ["web"] }
+wasm-bindgen = "0.2"
+serde_json.workspace = true
+wasm-bindgen-futures = "0.4"
+js-sys = "0.3"
+web-sys = { version = "0.3", features = [
+  "Window", "Document", "Element", "HtmlElement", "HtmlCanvasElement", "CssStyleDeclaration",
+  "WebGl2RenderingContext", "WebGlContextAttributes",
+  "KeyboardEvent", "MouseEvent", "WheelEvent", "FocusEvent", "Event", "EventTarget",
+  "Navigator", "Gamepad", "GamepadButton", "GamepadMappingType",
+  "AudioContext", "AudioContextState", "BaseAudioContext", "AudioBuffer", "AudioBufferSourceNode",
+  "AudioNode", "AudioParam", "GainNode", "StereoPannerNode", "ConvolverNode", "AudioDestinationNode",
+  "BiquadFilterNode", "BiquadFilterType", "AudioScheduledSourceNode",
+  "Storage", "Location", "console", "Performance", "DomRect", "AddEventListenerOptions",
+] }
